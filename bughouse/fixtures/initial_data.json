@@ -1,0 +1,1 @@
+[{"pk": 1, "model": "bughouse.bug", "fields": {"name": "Broken DateQueryset", "created": "2010-11-08 15:14:33"}}, {"pk": 1, "model": "bughouse.patch", "fields": {"content": "wish i had one.", "name": "Cody's patch", "bugs": 1}}]
